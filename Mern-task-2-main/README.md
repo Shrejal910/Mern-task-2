@@ -117,5 +117,5 @@ npm start
 
 ## **Credits**
 
-This project was **developed by Trashika S Karkera**.
+This project was **developed by Shrejal B Shetty**.
 
